@@ -9,5 +9,7 @@ Transformation into the number of Successful/Unsuccessful logs made by each user
 
 ## Visualization
 I visualized the result using both the Matplotlib and Seaborn libraries.
-![](img/matplot.png)
+
+![](img/matplt.png)
+
 ![](img/sborn.png)
