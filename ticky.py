@@ -59,6 +59,6 @@ print(users_new)
 with open("error_message.csv", "w") as error_message:
     writer = csv.writer(error_message)
     writer.writerows(error)
-with open("user_statistics1.csv", "w") as user_statistics:
+with open("user_statistics.csv", "w") as user_statistics:
     writer = csv.writer(user_statistics)
     writer.writerows(users_new)
